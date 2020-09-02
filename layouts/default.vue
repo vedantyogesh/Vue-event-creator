@@ -43,7 +43,7 @@
 
     <v-footer app>
       <v-icon class="mr-2">mdi-copyright</v-icon>
-      <span class="caption">CCE 2019</span>
+      <span class="caption">Ved 2019</span>
     </v-footer>
   </v-app>
 </template>

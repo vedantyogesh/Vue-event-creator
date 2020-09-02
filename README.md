@@ -1,10 +1,10 @@
 # events
 
-> My bee&#39;s knees Nuxt.js project
+> A simple vue js application to solve the communication problem of inter-departmental venue bookings.
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 $ npm install
 
