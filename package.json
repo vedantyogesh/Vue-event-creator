@@ -1,0 +1,30 @@
+{
+  "name": "events",
+  "version": "1.0.0",
+  "description": "My bee&#39;s knees Nuxt.js project",
+  "author": "Ved",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.0.0",
+    "axios": "^0.19.0",
+    "firebase": "^7.14.3",
+    "moment": "^2.24.0",
+    "momentjs": "^2.0.0",
+    "nuxt": "^2.12.2",
+    "uniqid": "^5.0.3",
+    "v-viewer": "^1.4.2",
+    "vue-color": "^2.7.0",
+    "vue-server-renderer": "^2.6.12",
+    "vue-template-compiler": "^2.6.12"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.8.6",
+    "cross-env": "^5.0.1"
+  }
+}
